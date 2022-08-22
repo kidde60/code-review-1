@@ -72,3 +72,8 @@ h1 {
   text-decoration: line-through;
   opacity: 0.7;
 }
+
+.edit,
+.delete {
+  border: none;
+}
