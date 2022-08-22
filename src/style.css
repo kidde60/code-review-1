@@ -77,3 +77,7 @@ h1 {
 .delete {
   border: none;
 }
+
+.delete {
+  color: crimson;
+}
